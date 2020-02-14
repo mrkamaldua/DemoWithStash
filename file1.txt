@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 This is new File Hiiii
 Added through My Desktop
+=======
+This is new File Hiii
+I have added something on my Mac.
+>>>>>>> Stashed changes
